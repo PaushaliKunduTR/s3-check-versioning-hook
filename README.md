@@ -3,7 +3,7 @@
 ## paushalisb::guardraildemo::hook
 
 ### Goal:
-- Set Up Proactive Governance Guardrails across an Organization
+- Set Up Proactive Governance Guardrails in an account
 
 ### Set Up CFN CLI
 ```
