@@ -1,8 +1,8 @@
 {
     "typeName": "paushalisb::guardraildemo::hook",
     "description": "S3 Versioning verification hook",
-    "sourceUrl": "https://github.com/PaushaliKunduTR/proactive-gov-guardrails",
-    "documentationUrl": "https://github.com/PaushaliKunduTR/proactive-gov-guardrails/blob/main/README.md",
+    "sourceUrl": "https://github.com/PaushaliKunduTR/s3-check-versioning-hook",
+    "documentationUrl": "https://github.com/PaushaliKunduTR/s3-check-versioning-hook/blob/main/README.md",
     "typeConfiguration": {
         "properties": {
             "excludedBuckets": {
